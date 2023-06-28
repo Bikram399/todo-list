@@ -1,6 +1,6 @@
 # Todo List
 
-This is a simple Todo List project created by Bikram399.
+This is a simple Todo List project created by Bikram Nayak.
 
 ## Getting Started
 
